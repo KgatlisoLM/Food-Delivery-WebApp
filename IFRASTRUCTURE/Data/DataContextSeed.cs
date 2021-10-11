@@ -22,7 +22,7 @@ namespace INFRASTRUCTURE.Data
 
                 if (!context.ProductTypes.Any())
                 {
-                    var typesData = File.ReadAllText("C:/Users/kgatliso matema/source/repos/FDDAPI/IFRASTRUCTURE" + @"/Data/SeedData/types.json");
+                    var typesData = File.ReadAllText("project path directory/INFRASTRUCTURE" + @"/Data/SeedData/types.json");
 
                     var types = JsonSerializer.Deserialize<List<ProductType>>(typesData);
 
@@ -38,7 +38,7 @@ namespace INFRASTRUCTURE.Data
 
                 if (!context.Products.Any())
                 {
-                    var productsData = File.ReadAllText("C:/Users/kgatliso matema/source/repos/FDDAPI/IFRASTRUCTURE" + @"/Data/SeedData/products.json");
+                    var productsData = File.ReadAllText("project path directory/INFRASTRUCTURE" + @"/Data/SeedData/products.json");
 
                     var products = JsonSerializer.Deserialize<List<Product>>(productsData);
 
