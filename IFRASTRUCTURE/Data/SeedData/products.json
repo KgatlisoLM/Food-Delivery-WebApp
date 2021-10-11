@@ -1,0 +1,113 @@
+[
+  {
+    "Name": "Double Beef",
+    "ImageUrl": "images/products/burger-1.jpg",
+    "Price": 75.95,
+    "DeliveryTime": "20-30 min",
+    "ProductTypeId": 1
+  },
+  
+  {
+    "Name": "Bacon & Beef",
+    "ImageUrl": "images/products/burger-2.jpg",
+    "Price": 80.95,
+    "DeliveryTime": "20-30 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Double Cheese Beef",
+    "ImageUrl": "images/products/burger-3.jpg",
+    "Price": 65.95,
+    "DeliveryTime": "20-30 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Veggie Beef",
+    "ImageUrl": "images/products/burger-4.jpg",
+    "Price": 55.95,
+    "DeliveryTime": "15-20 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Something Meaty",
+    "ImageUrl": "images/products/pizza-1.jpg",
+    "Price": 95.95,
+    "DeliveryTime": "20-35 min",
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pepperoni",
+    "ImageUrl": "images/products/pizza-2.jpg",
+    "Price": 85.95,
+    "DeliveryTime": "25-35 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Chicken & Mushroom",
+    "ImageUrl": "images/products/pizza-3.jpg",
+    "Price": 95.95,
+    "DeliveryTime": "20-35 min",
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Bacon Burger",
+    "ImageUrl": "images/products/burger-5.jpg",
+    "Price": 85.95,
+    "DeliveryTime": "20-30 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Fruit Cake",
+    "ImageUrl": "images/products/dessert-1.jpg",
+    "Price": 35.95,
+    "DeliveryTime": "10-20 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Fudge Chocolate Cake ",
+    "ImageUrl": "images/products/dessert-2.jpg",
+    "Price": 40.95,
+    "DeliveryTime": "10-25 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Donuts",
+    "ImageUrl": "images/products/dessert-3.jpg",
+    "Price": 30.95,
+    "DeliveryTime": "15-20 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Coca Cola",
+    "ImageUrl": "images/products/drink-1.jpg",
+    "Price": 15.95,
+    "DeliveryTime": "10-20 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "The Energy drink",
+    "ImageUrl": "images/products/drink-2.jpg",
+    "Price": 15.95,
+    "DeliveryTime": "10-20 min",
+    "ProductTypeId": 1
+  },
+
+  {
+    "Name": "Coca Cola Zero",
+    "ImageUrl": "images/products/drink-3.jpg",
+    "Price": 15.95,
+    "DeliveryTime": "10-20 min",
+    "ProductTypeId": 1
+  }
+
+ 
+]

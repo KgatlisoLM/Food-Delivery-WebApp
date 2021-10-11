@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Burger",
+    "ImageUrl": "images/icons/hamburger.png"
+  },
+  {
+    "Name": "Pizza",
+    "ImageUrl": "images/icons/pizza.png"
+  },
+  {
+    "Name": "Drinks",
+    "ImageUrl": "images/icons/soft-drink.png"
+  },
+  {
+    "Name": "Dessert",
+    "ImageUrl": "images/icons/sweets.png"
+  }
+]
