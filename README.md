@@ -1,8 +1,10 @@
 # Food-Delivery-WebApp
  step one: to run the project you will either download visual studio or vs code.
  
-  -------------------------- SHOULD YOU CHOOSE VS CODE ----------------------------
-    MAKE SURE YOUR COMPUTER IS CONFIGURED TO RUN .NET CORE PROJECTS   
+  ---------------------------------------- SHOULD YOU CHOOSE VS CODE --------------------------------------------
+   
+   MAKE SURE YOUR COMPUTER IS CONFIGURED TO RUN .NET CORE PROJECTS   
+   
   ---------------- ----------------------------------------------------------------
  
  step two: download mssql 
@@ -30,8 +32,12 @@
  --------------------------- VS CODE --------------------------------------------
  
  on vs code Terminal copy paste code :- dotnet ef migrations initialCreate --project Infrastructure 
+ 
  once migration is done 
+ 
  copy paste code on Terminal := update-database 
+ 
  once its done 
+ 
  copy paste code:- dotnet watch run 
  
