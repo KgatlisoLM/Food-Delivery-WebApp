@@ -41,3 +41,5 @@
  
  copy paste code:- dotnet watch run 
  
+![fddhome](https://user-images.githubusercontent.com/39485154/155523850-81435383-aeef-4b95-a42f-13245619670f.PNG)
+![fddbasket](https://user-images.githubusercontent.com/39485154/155523873-7e276055-fd38-4915-a55a-7f90fb8ed3a1.PNG)
